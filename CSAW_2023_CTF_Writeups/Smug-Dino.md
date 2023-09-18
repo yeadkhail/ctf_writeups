@@ -56,6 +56,8 @@ The result from the repeater is:
 ![[Pasted image 20230916220128.png]]
 Therefore, the flag is:
 `csawctf{d0nt_smuggl3_Fla6s_!}`
+
+
 Edit:
 Only this part is required:
 ```
