@@ -1,8 +1,6 @@
 ---
-Source: 
 created: 2023-09-16
 tags: ctf writeup
-Type: "[[Fleeting notes]]"
 ---
 ### Description:
 ```
