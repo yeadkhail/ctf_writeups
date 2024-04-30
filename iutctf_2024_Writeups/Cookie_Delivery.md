@@ -2,7 +2,7 @@
 created: 2024-04-26
 ---
 ## Description:
-[Desc](/resources/Cookie-delivery-iutctf2024-problem-desc.jpg)
+![[Desc]](/resources/Cookie-delivery-iutctf2024-problem-desc.jpg)
 ## File:
 [chal](resources/cookie-delivery-iutctf2024-problem)
 ## Solve:
