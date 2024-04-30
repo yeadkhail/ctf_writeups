@@ -2,9 +2,9 @@
 created: 2024-04-30
 ---
 ## Description:
-![[Desc]](resources/iutctf2024_ctf_reversible_challenge_desc.png)
+![[Desc]](https://github.com/yeadkhail/ctf_writeups/blob/878dd48a36f52cc7248d065fef2317ec193c941a/resources/iutctf2024_ctf_reversible_challenge_desc.png)
 ## File:
-[chal](resources/iutctf2024_ctf_reversible_challengefile)
+[chal]([resources/iutctf2024_ctf_reversible_challengefile](https://github.com/yeadkhail/ctf_writeups/blob/878dd48a36f52cc7248d065fef2317ec193c941a/resources/iutctf2024_ctf_reversible_challengefile))
 
 ## Solve:
 
